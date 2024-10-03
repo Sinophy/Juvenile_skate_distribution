@@ -27,7 +27,7 @@ prediction_data.csv
 
 main_script.R
 
-Script to build and run Bernoulli GLM, GAM and GAM + SPDE. Model validation + prediction steps are also included. Method and code from Zuur et al., 2017.
+Script to build and run Bernoulli GLM, GAM and GAM + SPDE using the Bayesian Integrated Nested Laplace Approximation (INLA) approach. Model validation + prediction steps are also included. Method and code from Zuur et al., 2017.
 
 
 
